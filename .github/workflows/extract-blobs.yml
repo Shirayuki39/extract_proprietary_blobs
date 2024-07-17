@@ -10,7 +10,7 @@ on:
       FIRMWARE_DUMP_BRANCH:
         description: 'Firmware Dump Repository Branch'
         required: true
-        default: 'sys_tssi_64_armv82_tecno-user-12-SP1A.210812.016-481391-release-keys'
+        default: 'sys_tssi_64_armv82_tecno-user-12-SP1A.210812.016-561545-release-keys'
       DEVICE_TREE_REPO:
         description: 'Device Tree Repository URL'
         required: true
