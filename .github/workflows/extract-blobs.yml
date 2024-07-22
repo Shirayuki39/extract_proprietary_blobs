@@ -14,11 +14,11 @@ on:
       DEVICE_TREE_REPO:
         description: 'Device Tree Repository URL'
         required: true
-        default: 'https://github.com/Shirayuki39/android_device_tecno_LG8n'
+        default: 'https://github.com/Anything-at-25-00/android_device_tecno_LG8n'
       DEVICE_TREE_BRANCH:
         description: 'Device Tree Repository Branch'
         required: true
-        default: 'lineage-20.0'
+        default: 'lineage-20.0-reboot'
       DEVICE_CODENAME:
         description: 'Device Codename'
         required: true
